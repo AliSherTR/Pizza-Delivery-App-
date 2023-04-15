@@ -8,6 +8,7 @@
 html {
     font-size: 62.5%;
     box-sizing: inherit;
+    scroll-behavior: smooth;
 }
 
 body {
